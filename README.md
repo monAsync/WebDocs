@@ -2,4 +2,4 @@
 عايز تتعلم ويب ع أصوله دي النسخة المصرية
 
 ## Technologies
-- [HTML](./html/README.md)
+- [HTML](./HTML/README.md)
