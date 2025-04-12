@@ -15,45 +15,37 @@
 - Nesting
 
 ## HTML Elements
-- Simple Webpage Structure
+- **Simple Webpage Structure**
   * `<!DOCTYPE html>`
   * `<html>` - `<head>` - `<body>`
-
-- Headings
+- **Headings**
   * `<h1>` - `<h2>` - `<h3>` - `<h4>` - `<h5>` - `<h6>`
-
-- Paragraphs & Containers
+- **Paragraphs & Containers**
   * `<p>`
   * `<div>`
   * `<span>`
-
-- [Links](./links/links.md)
+- **[Links](./links/links.md)**
   * `<a>`
-
-- Lists
+- **Lists**
   * `<ol>` - `<li>` - `<ul>` - `<dir>` - `<menu>`
   * `<dl>` - `<dt>` - `<dd>`
-
-- Tables
+- **Tables**
   * `<table>` - `<tr>` - `<td>` - `<th>`
   * `<thead>` - `<tbody>` - `<tfoot>` - `<caption>`
   * `<colgroup>` - `<col>`
-
-- Multi-media
+- **Multi-media**
   * `<img>` - `<figure>` - `<picture>` - `<map>` - `<area>`
   * `<video>` - `<audio>` - `<source>` - `<track>`
   * `<iframe>` - `<frame>` - `<frameset>` - `<noframes>` - `<applet>` - `<embed>` - `<object>` - `<param>`
   * `<canvas>` - `<svg>`
-
-- Forms
+- **Forms**
   * `<form>` - `<search>`
   * `<feildset>` - `<legend>`
   * `<input>` - `<textarea>` - `<label>` - `<output>`
   * `<progress>` - `<meter>`
   * `<select>` - `<datalist>` - `<optgroup>` - `<option>`
   * `<button>`
-
-- Text Formatters & Semantics
+- **Text Formatters & Semantics**
   * `<strong>` - `<b>`
   * `<em>` - `<i>`
   * `<ins>` - `<del>` - `<u>` - `<s>` - `<strike>`
@@ -67,12 +59,10 @@
   * `<mark>`
   * `<center>`
   * `<details>` - `<summary>` - `<dialog>` - `<template>`
-
-- Layouts
+- **Layouts**
   * `<header>` - `<main>` - `<footer>`
   * `<nav>` - `<hgroup>` - `<aside>` - `<section>` - `<article>` - `<address>`
-
-- Head Elements & Metadata
+- **Head Elements & Metadata**
   * `<title>`
   * `<link>`
   * `<style>`
